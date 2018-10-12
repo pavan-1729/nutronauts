@@ -16,4 +16,4 @@ Historic flood warnings, Historic flood alerts, Indecent flood alerts, Rainfall 
 Technologies used are :-
 Statistics, Machine learning techniques luke Multivariate Neural networks and Polynomial Regression, Information retrieval.
 
-Finally our project will be implemented using MATLAB and Microsoft assure platform through our website.
+Finally, our project will be implemented using MATLAB and Microsoft Azure cloud platform through our website.
