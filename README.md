@@ -11,5 +11,5 @@ Based on previous years data, we train our Polynomial Regression and Artificial 
 Any users interested can contribute by provide the contents for datasets listed below, and also can update the required datasets of a concerned area.
 
 Datasets required to be dealt with are :-
-Historic flood warnings, Historic flood alerts, Indecent flood alerts, Rainfall rank ordered statistics, Rainfall grids, Relative humidity, Temperature, Wind, Fuel moisture codes, Fire behaviour index, Nighttime light, Vegetation Real-time, Fire Real-time, True Colour Real-time.
+Historic flood warnings, Historic flood alerts, Indecent flood alerts, Rainfall rank ordered statistics, Rainfall grids, Relative humidity, Temperature, Wind, Fuel moisture codes, Fire behaviour index, Area affected, Nighttime light, Vegetation Real-time, Fire Real-time, True Colour Real-time.
 
