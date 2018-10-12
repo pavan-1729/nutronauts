@@ -13,3 +13,7 @@ Any users interested can contribute by provide the contents for datasets listed 
 Datasets required to be dealt with are :-
 Historic flood warnings, Historic flood alerts, Indecent flood alerts, Rainfall rank ordered statistics, Rainfall grids, Relative humidity, Temperature, Wind, Fuel moisture codes, Fire behaviour index, Area affected, Nighttime light, Vegetation Real-time, Fire Real-time, True Colour Real-time.
 
+Technologies used are :-
+Statistics, Machine learning techniques luke Multivariate Neural networks and Polynomial Regression, Information retrieval.
+
+Finally our project will be implemented using MATLAB and Microsoft assure platform through our website.
